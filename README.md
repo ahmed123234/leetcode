@@ -26,6 +26,6 @@ For more, Follow me on the social media sites below:
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>&nbsp;
   <a href="https://twitter.com/AhmadGhnnam5">
-       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+       <img src="https://img.shields.io/badge?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
