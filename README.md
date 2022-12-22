@@ -7,8 +7,7 @@
 <h4> This repo. contains solutions to many leetcode problems I'd solved in many programming aspects</h4>
 
 ### New On LeetCode :thinking:?
-If you're new at leetCode or coding in general don't worry. There are many helpful gides for you :+1:
-:thumbsup:.
+If you're new at leetCode or coding in general don't worry. There are many helpful guides for you:👍.
 
 Click <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjOtvTAmI38AhWT3VEKHSPDBLsYABACGgJ3cw&ohost=www.google.com&cid=CAESbOD2vgP0UWoV1YRDLnB-S5rFNjDdzbLcuqH8SHKxQ5bzGVgnf-V3n9CTGrWA7rxGZbtqKf-x1acMDcQjRbimxxNzBkz4kdVMi1_QzM6Ts1dLIXv5-FJXqwm3DokWtxwnfgh1vLXAUXWN7Mpmpw&sig=AOD64_2pq7nM6uq-BBLkNXm9trSkq2Xb9g&q&adurl&ved=2ahUKEwig_e3AmI38AhWlR_EDHTonDBkQ0Qx6BAgGEAE">here</a> for Data Structure course for bignners. 
 
