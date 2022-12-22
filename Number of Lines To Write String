@@ -1,0 +1,19 @@
+class Solution {
+    public int[] numberOfLines(int[] widths, String s) {
+        int lineWidth = 0;
+        int [] res  = new int [2];
+        for(int i = 0; i < s.length(); i++) {
+            if (lineWidth == 0)
+                res[0] ++;
+            
+            lineWidth += widths[s.charAt(i) - 'a'];
+            
+            if (lineWidth > 100){
+                i --;
+                lineWidth = 0;
+            } else
+                res[1] = lineWidth;
+        }
+        return res;
+    }
+}
