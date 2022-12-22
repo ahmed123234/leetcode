@@ -6,3 +6,19 @@
 
 <h4> This repo. contains solutions to many leetcode problems I'd solved in many programming aspects</h4>
 
+###New On LeetCode :thinking:?
+If you're new at leetCode or coding in general don't worry. There are many helpful gides for you :+1:
+:thumbsup:.
+
+Click (here) for Data Structure course for bignners. 
+
+###Create LeetCode Account
+
+to create account at leetcode https://leetcode.com/accounts/signup/
+
+###Follow me:
+For more, Follow me on the social media sites below:
+<div id="icons">
+  <a href="https://www.twitter.com/" ><i class="fa-brands fa-twitter"></i></a>&nbsp;
+  <a href="https://www.linkedin.com/"><i class="fa-brands fa-linkedin-in"></i></a>&nbsp;
+</div>
